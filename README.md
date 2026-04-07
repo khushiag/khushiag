@@ -34,17 +34,6 @@ I'm a Data Science Engineering student who likes building, breaking and rebuildi
 
 ---
 
-### github stats
-
-<div align="center">
-
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushiagarwal&show_icons=true&hide_border=true&theme=default&hide=prs)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushiagarwal&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
 
 <div align="center">
 
