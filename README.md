@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Hey, I'm Khushi 👋
+# Hey, I'm Khushi
 
 **Data Science Engineering student** · Night owl · Curious
 
