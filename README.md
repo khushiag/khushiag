@@ -57,6 +57,12 @@ I'm a Data Science Engineering student who likes building, breaking and rebuildi
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 
+---
+
+
+**LeetCode Journey**
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/KhushiAgarwal118?theme=light&font=Nunito&ext=heatmap)](https://leetcode.com/KhushiAgarwal118)
 
 
 ---
