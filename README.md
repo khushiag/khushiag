@@ -14,7 +14,7 @@ About me
 I'm a Data Science Engineering student who likes building, breaking and rebuilding. I'm currently exploring everything new that I come across from mobile apps to machine learning. The breadth of it is the fun part.
 
 - Always trying to keep up with the latest in tech and the world, although thats getting harder by the day
-- Learning Flutter and diving deeper into AppDev
+- Diving deeper into AppDev
 - I like spending my nights looking up at the skies at the same constellations 
 
 
